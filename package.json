@@ -103,7 +103,7 @@
     "mkdirp": "^1.0.4",
     "node_modules-path": "*",
     "normalize.css": "8.0.1",
-    "object-path": "0.11.5",
+    "object-path": "0.11.8",
     "prodotype": "1.0.25",
     "promise-sequential": "1.1.1",
     "redux": "4.0.5",
